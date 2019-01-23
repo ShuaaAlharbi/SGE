@@ -4,7 +4,7 @@
 
 | INPUT  | Accumulate Prominent Peaks | Final Extraction |
 | ------------- | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/43176622/51602440-dc6a6f00-1efe-11e9-8b5f-f7f1ab763045.png" width="250">  | <img src="https://user-images.githubusercontent.com/43176622/51602487-015ee200-1eff-11e9-84c8-cd44a010b477.png" width="250">  | <img src="https://user-images.githubusercontent.com/43176622/45365567-b0e08b00-b5d4-11e8-9809-5c85f718d5db.png" width="250"> |
+| <img src="https://user-images.githubusercontent.com/43176622/51602440-dc6a6f00-1efe-11e9-8b5f-f7f1ab763045.png" width="250">  | <img src="https://user-images.githubusercontent.com/43176622/51602487-015ee200-1eff-11e9-84c8-cd44a010b477.png" width="250">  | <img src="https://user-images.githubusercontent.com/43176622/51602517-19cefc80-1eff-11e9-9192-a5235f1aaa55.png" width="250"> |
 
 # 3D image:
 | INPUT  | Accumulate Prominent Peaks | Final Extraction(3D view) |
