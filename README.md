@@ -1,4 +1,4 @@
-# Sequential Graph-based Extraction (SGE) in 2D and 3D images
+# Sequential Graph-based Extraction (SGE) in 2D and 3D Images
 
 # 2D image:
 
