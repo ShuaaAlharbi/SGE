@@ -15,7 +15,7 @@
 ## Overview
 This repository contains all the codes written and implemented for the paper 'Sequential Graph-based Extraction of Curvilinear Structures' by Shuaa S. Alharbi, Chris G. Willcocks, Philip T. G. Jackson and Boguslaw Obara in Signal, Image and Video Processing (2019). If you find this code useful in your research and development, please reference this repository or the paper.
 
-Our project is split into 2 step, as discussed in the paper:
+Our project is split into 2 steps, as discussed in the paper:
  1. enhancement of the centreline based on prominent ridge detection.
  2. extraction of the centreline based on an iterative graph-based optimisation.
 *******
